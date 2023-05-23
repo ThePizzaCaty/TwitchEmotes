@@ -9,3 +9,8 @@ Drag into your World of Warcraft\\\_retail_\Interface\AddOns folder (the folder 
 
 
 Ill try to keep uploading more emotes i find funny if you have any suggestions ig just msg me or something idk
+
+
+
+
+Credit to the original addon creator: https://www.curseforge.com/wow/addons/twitch-emotes-v2
